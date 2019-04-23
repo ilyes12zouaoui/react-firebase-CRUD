@@ -4,7 +4,7 @@ src/components/FireBaseConfig.js
 use this command to install node dependencies:
 npm install
 
-use this command to start the create-react-app server
+use this command to start the create-react-app server:
 npm start
 
 enjoy :D
